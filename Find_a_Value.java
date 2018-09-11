@@ -23,7 +23,6 @@ public class Find_a_Value {
         
         System.out.println(Arrays.toString(myArray));
         
-
       
         boolean isPresent=false;
       
